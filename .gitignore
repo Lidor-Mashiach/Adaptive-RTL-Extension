@@ -1,0 +1,31 @@
+# ===========================
+# OS
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# IDEs
+# ===========================
+.idea/
+.vscode/
+*.iml
+
+# ===========================
+# Node (if used for build tools)
+# ===========================
+node_modules/
+npm-debug.log*
+
+# ===========================
+# Build output
+# ===========================
+dist/
+build/
+
+# ===========================
+# ZIP files (built locally, uploaded via GitHub Releases)
+# ===========================
+*.zip
+*.xpi
