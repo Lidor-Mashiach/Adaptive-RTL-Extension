@@ -87,8 +87,8 @@ Arrows are flipped physically (`→` becomes `←`) **only in paragraphs that co
 
 Choose your browser:
 
-- **[⬇️ Download for Chrome / Edge / Brave / Opera](LINK_TO_CHROME_ZIP)**
-- **[⬇️ Download for Firefox](LINK_TO_FIREFOX_ZIP)**
+- **[⬇️ Download for Chrome / Edge / Brave / Opera](https://github.com/Lidor-Mashiach/rtl-adaptive/releases/download/v1.0.0/rtl-adaptive.zip)**
+- **[⬇️ Download for Firefox](https://github.com/Lidor-Mashiach/rtl-adaptive/releases/download/v1.0.0/rtl-adaptive-firefox.zip)**
 
 > The Chrome version works on all Chromium-based browsers (Chrome, Edge, Brave, Opera, Vivaldi, Arc).
 
