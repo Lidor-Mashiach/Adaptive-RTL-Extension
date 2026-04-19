@@ -265,8 +265,8 @@ The signed extension now installs permanently on any Firefox (regular, Developer
 
 בחר את הדפדפן שלך:
 
-- **[⬇️ הורדה ל-Chrome / Edge / Brave / Opera](LINK_TO_CHROME_ZIP)**
-- **[⬇️ הורדה ל-Firefox](LINK_TO_FIREFOX_ZIP)**
+- **[⬇️ הורדה ל-Chrome / Edge / Brave / Opera](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v1.0.0/rtl-adaptive.zip)**
+- **[⬇️ הורדה ל-Firefox](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v1.0.0/rtl-adaptive-firefox.zip)**
 
 > הגרסה של Chrome עובדת על כל הדפדפנים מבוססי Chromium (Chrome, Edge, Brave, Opera, Vivaldi, Arc).
 
