@@ -87,8 +87,8 @@ Arrows are flipped physically (`→` becomes `←`) **only in paragraphs that co
 
 Choose your browser:
 
-- **[⬇️ Download for Chrome / Edge / Brave / Opera](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v1.0.0/rtl-adaptive.zip)**
-- **[⬇️ Download for Firefox](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v1.0.0/rtl-adaptive-firefox.zip)**
+- **[⬇️ Download for Chrome / Edge / Brave / Opera](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/V2.0.0/rtl-adaptive.zip)**
+- **[⬇️ Download for Firefox](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/V2.0.0/rtl-adaptive-firefox.zip)**
 
 > The Chrome version works on all Chromium-based browsers (Chrome, Edge, Brave, Opera, Vivaldi, Arc).
 
@@ -265,8 +265,8 @@ The signed extension now installs permanently on any Firefox (regular, Developer
 
 בחר את הדפדפן שלך:
 
-- **[⬇️ הורדה ל-Chrome / Edge / Brave / Opera](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v1.0.0/rtl-adaptive.zip)**
-- **[⬇️ הורדה ל-Firefox](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v1.0.0/rtl-adaptive-firefox.zip)**
+- **[⬇️ הורדה ל-Chrome / Edge / Brave / Opera](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v2.0.0/rtl-adaptive.zip)**
+- **[⬇️ הורדה ל-Firefox](https://github.com/Lidor-Mashiach/Adaptive-RTL-Extension/releases/download/v2.0.0/rtl-adaptive-firefox.zip)**
 
 > הגרסה של Chrome עובדת על כל הדפדפנים מבוססי Chromium (Chrome, Edge, Brave, Opera, Vivaldi, Arc).
 
